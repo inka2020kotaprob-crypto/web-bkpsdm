@@ -1,0 +1,6 @@
+{
+  "name": "RuangBangkom",
+  "description": "Portal Webinar dan Monitoring Pelatihan Peserta Terpadu untuk Kegiatan Pengembangan Kompetensi Bulanan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
